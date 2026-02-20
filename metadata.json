@@ -1,0 +1,7 @@
+{
+  "name": "Aura Bijoux - Loja de Joalharia Feminina",
+  "description": "Uma plataforma de e-commerce sofisticada para joalharia elegante, com cores suaves, design responsivo e painel administrativo completo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
